@@ -1,0 +1,70 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  color: #fff;
+  font-size: 1em;
+  background-color: #242F41;
+  background-image: url(../images/christmasbg.jpg);
+  background-repeat: no-repeat;
+ background-size: cover;
+}
+
+a:link, a:visited, a:active {
+  color: #fff;
+  text-decoration: none;
+
+}
+
+
+
+#clockdiv {
+  
+  padding: 10px;
+  height: 150px;
+  width: 600px;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+ 
+ 
+  
+  
+}
+
+.timeblock {
+  float: left;
+  text-align: center;
+  width: 80px;
+  margin: 0 25px;
+  padding: 10px;
+   background-color: #111;
+   border-radius: 10px;
+  -moz-border-radius: 10px;
+  -o-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+/*clock */
+
+span.days, span.hours, span.minutes, span.seconds {
+  font-size: 4em;
+}
+
+#untilchristmas {
+  
+  margin-top: -100px;
+  margin-left: -30px;
+}
+ 
+ #untilchristmas img {
+  width: 650px;
+ }
+
+ #footer {
+  padding-top: 22em;
+  padding-bottom: 2em;
+  font-family: arial, sans-serif;
+  text-align: center;
+  font-family: 0.8em;
+  color: #ccc;
+ }
+
